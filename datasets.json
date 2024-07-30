@@ -1,0 +1,6 @@
+{
+   "coco_training_xe": "/path/to/webdatasets/coco-384-training-{000..113}.tar",
+   "coco_training_dico": "/path/to/webdatasets/coco-384-training-dict-{000..022}.tar",
+   "coco_validation": "/path/to/webdatasets/coco-384-validation-dict-625-{000..007}.tar",
+   "coco_test": "/path/to/webdatasets/coco-384-test-dict-625-{000..007}.tar"
+}
