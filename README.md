@@ -20,8 +20,8 @@ Please cite with the following BibTeX:
 ```
 @inproceedings{moratelli2024revisiting,
   title={{Revisiting Image Captioning Training Paradigm via Direct CLIP-based Optimization}},
-  author={Moratelli, Nicholas and Caffagni, Davide and Cornia, Marcella and Baraldi, Lorenzo and Cucchiara, Rita and others},
-  booktitle={Proceedings of the 35th British Machine Vision Conference},
+  author={Moratelli, Nicholas and Caffagni, Davide and Cornia, Marcella and Baraldi, Lorenzo and Cucchiara, Rita},
+  booktitle={Proceedings of the British Machine Vision Conference},
   year={2024}
 }
 ```
