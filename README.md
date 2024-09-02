@@ -5,10 +5,26 @@
 <h1 align="center"> Revisiting Image Captioning Training Paradigm</br>via Direct CLIP-based Optimization</br>(BMVC 2024)</h1>
 
 
-<!-- ![method](assets/dico_model.jpg) -->
+<div align='center'>
+
+#### [Nicholas Moratelli](https://nicholasmoratelli.github.io)\*, [Davide Caffagni](https://github.com/dcaffo98)\*, [Marcella Cornia](https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=90), [Lorenzo Baraldi](https://www.lorenzobaraldi.com/), and [Rita Cucchiara](https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=1)
+
+</div>
 <p align="center">
   <img src="assets/dico_model.jpg" width=80%/> 
 </p>
+
+This repository contains the reference code for the paper [Revisiting Image Captioning Training Paradigm via Direct CLIP-based Optimization](https://arxiv.org/pdf/2408.14547), **BMVC 2024**.
+
+Please cite with the following BibTeX:
+```
+@inproceedings{moratelli2024revisiting,
+  title={{Revisiting Image Captioning Training Paradigm via Direct CLIP-based Optimization}},
+  author={Moratelli, Nicholas and Caffagni, Davide and Cornia, Marcella and Baraldi, Lorenzo and Cucchiara, Rita and others},
+  booktitle={Proceedings of the 35th British Machine Vision Conference},
+  year={2024}
+}
+```
 
 ## Abstract
 
