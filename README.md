@@ -2,12 +2,14 @@
   <img src="assets/dico_logo.png" />
 </p>
 
-<h1 align="center"> Revisiting Image Captioning Training Paradigm</br>via Direct CLIP-based Optimization</br>(BMVC 2024)</h1>
+<h1 align="center"> Revisiting Image Captioning Training Paradigm</br>via Direct CLIP-based Optimization</br>(BMVC 2024 Oral ✨)</h1>
 
 
 <div align='center'>
 
 #### [Nicholas Moratelli](https://nicholasmoratelli.github.io)\*, [Davide Caffagni](https://github.com/dcaffo98)\*, [Marcella Cornia](https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=90), [Lorenzo Baraldi](https://www.lorenzobaraldi.com/), and [Rita Cucchiara](https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=1)
+
+[![Paper](https://img.shields.io/badge/Paper-arxiv.2303.12112-B31B1B.svg)](https://arxiv.org/pdf/2408.14547)
 
 </div>
 <p align="center">
@@ -25,6 +27,10 @@ Please cite with the following BibTeX:
   year={2024}
 }
 ```
+
+## 📣 Latest News 📣
+- **`10 September 2024`** Our paper has been selected for oral presentation at **BMVC2024**! ✨
+- **`19 July 2024`** Our paper has been accepted for publication at **BMVC2024**!
 
 ## Abstract
 
